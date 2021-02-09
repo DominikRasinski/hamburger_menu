@@ -39,7 +39,7 @@ Extentions:
 Project is: _finished_
 
 ## Inspiration
-Add here credits. Project inspired by https://codepen.io/hexagoncircle/pen/BKmWyv
+Project inspired by https://codepen.io/hexagoncircle/pen/BKmWyv
 
 ## Contact
 dox.gmr@gmail.com
